@@ -1,2 +1,5 @@
-# tryhackme-quick-writeups
-A repository of markdown files giving a quick run-down of TryHackMe challenge rooms that I've gone through.
+This repository will include markdown files with a quick run-down of various [TryHackMe](https://tryhackme.com/dashboard) challenges and challenge rooms. More complicated and important rooms and CTFs will be documented on my [blog](https://tenshi-net.github.io/). I'd love to do full documentation for all the challenges I run but the problem is that the lengthy write-ups on my blog take a lot of effort to format and write in a coherent way. This way, I will have a space to pop quick markdown notes on the overall process and troubleshooting that I do on other challenges. The aim is to have something to point to for job interviews, but if they can still help guide others in the challenges, that's great too.
+
+Expect these to be formatted more like personal notes rather than the step-by-step write-ups on my blog, because that's effectively what they are. In other words, they'll be enough to point to my process but without spending too much time writing full-blown walkthroughs.
+
+If you want to follow me on TryHackMe, see [my profile](https://tryhackme.com/p/TenshiNet).
